@@ -60,8 +60,8 @@ class ProfileScreen extends StatelessWidget {
               // avatar tròn
               const CircleAvatar(
                 radius: 56,
-                backgroundImage: NetworkImage(
-                  'https://i.pravatar.cc/300', // tạm ảnh random
+                backgroundImage: AssetImage(
+                  'assets/images/avatar.jpg',
                 ),
               ),
 
