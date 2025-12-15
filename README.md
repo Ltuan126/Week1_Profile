@@ -2,7 +2,7 @@
 
 ## Thông tin sinh viên
 - **Họ tên:** Nguyễn Lê Tuấn  
-- **MSSV:** 10336  
+- **MSSV:** 079205010336  
 
 ## Nội dung bài làm
 - **Câu 1 & 2:** Trả lời lý thuyết (thư mục `answer`)
@@ -13,3 +13,4 @@
 cd profile_app
 flutter pub get
 flutter run
+
